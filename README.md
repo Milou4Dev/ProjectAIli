@@ -1,3 +1,5 @@
+# Big update coming soon.
+
 # ProjectAIli
 
 ProjectAIli is an advanced command-line interface (CLI) application that enables users to interact with a powerful AI assistant powered by the llama3-70b-8192 model through the Groq API. This application provides a seamless and interactive chat experience with features like conversation saving, loading, and streaming responses.
