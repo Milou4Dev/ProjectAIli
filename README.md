@@ -1,2 +1,1 @@
-A significant update is being worked on. This code was merely an experiment. The initial official release is almost here. 
-Aim for three to four months. 
+I'm actively developing a significant update to the project. What started as an experimental prototype is now taking shape. I'm targeting an official release within the next three to four months.
